@@ -2,7 +2,6 @@ package ru.qwerty.springcourse.FirstSecurityApp.security;
 
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;
-import org.springframework.stereotype.Component;
 import ru.qwerty.springcourse.FirstSecurityApp.models.Person;
 
 import java.util.Collection;
